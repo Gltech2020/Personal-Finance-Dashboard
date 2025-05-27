@@ -16,6 +16,8 @@
 This Personal Finance Analysis Dashboard provides a visual breakdown of income and expenses over multiple years. 
 Built using Microsoft Excel, it is designed to help individuals gain insights into their financial habits and identify areas for budgeting and improvement.
 
+![Personal Finance Analysis](https://github.com/user-attachments/assets/02d6caba-ffef-47a1-86b7-8d1eec8b8494)
+
 ## Data Sources
 ---
 Personal Finance dataset was taken from [Download Here](https://github.com/Gltech2020/Personal-Finance-Link/blob/main/Personal_Finance_Dataset.csv)
