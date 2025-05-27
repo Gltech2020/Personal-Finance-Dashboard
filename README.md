@@ -46,16 +46,16 @@ The EDA involved answering these questions:
 ---
 I used Pivot Tables in Excel to analyze personal finance data from 2020–2024. 
 The goal was to extract insights and build an interactive dashboard for visualizing spending habits and income trends.
-1. Monthly Expense Summary
+1. **Monthly Expense Summary**
    - Used a Pivot Table to summarize total expenses per month, helping identify high-spending periods.
 
-2. Spending by Category
+2. **Spending by Category**
    - Grouped data by the Category field (e.g., Food & Drink, Rent, Utilities) to compare how much was spent in each area.
 
-3. Income vs Expense Trend
+3. **Income vs Expense Trend**
    - Pivoted the data by Type (Income/Expense) and by month to visualize net balance over time.
 
-4. Top 5 Expense Categories
+4. **Top 5 Expense Categories**
    - Created a Pivot Table to sort and filter highest expense categories, allowing quick focus on major cost drivers.
 
 ## Insights and Recommendations
@@ -94,18 +94,18 @@ The goal was to extract insights and build an interactive dashboard for visualiz
 ---
 While the project provides valuable insights using Excel and Pivot Tables, it has several limitations:
 
-1. Static Data
+1. *Static Data*
  - The dataset only covers a fixed period (e.g., 2020–2024) and doesn't reflect ongoing financial behavior.
-2. Synthetic / Sample Data
+2. *Synthetic / Sample Data*
  - If the dataset is not real (e.g., generated or anonymized), it may not fully represent realistic spending patterns or edge cases.
-3. Manual Data Entry
+3. *Manual Data Entry*
  - The analysis assumes consistent and accurate transaction logging. In real-life scenarios, missing or mislabeled entries could skew results.
-4. No External Factors Considered
+4. *No External Factors Considered*
  - External influences (e.g., inflation, currency changes, job loss) are not factored into the financial trends.
-5. Limited Granularity
+5. *Generalized Insights*
  - Pivot Tables provide high-level summaries but lack the advanced modeling or forecasting features available in tools like Power BI or Python.
-6. No Real-Time Updates
- Excel dashboards are not dynamic unless refreshed manually. Automated updates would require integration with financial APIs or Power Query.
+6. *No Real-Time Updates*
+   -Excel dashboards are not dynamic unless refreshed manually. Automated updates would require integration with financial APIs or Power Query.
 
 ## Use Cases
 ---
